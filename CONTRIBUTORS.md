@@ -20,7 +20,8 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 ### Example: **Vinayak Javaly** (GitHub: vjavaly2): My favorite movie is Apocalypse Now!
 
 ## Student Contributors:
-<!-- Students: Add your entries below this line! -->
+<!-- Students: Add your entries below this line! --> 
+-**Anaysa Navarrete** (GitHub: Coderwolf90): My favorite movie is The Lion King
 
 
 
