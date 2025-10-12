@@ -21,6 +21,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
+- **Vashisht Ramsaran** (GitHub: vashisht-ramsaran): My favorite movie is Rush Hour
 
 
 
