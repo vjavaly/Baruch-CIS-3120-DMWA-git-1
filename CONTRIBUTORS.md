@@ -21,6 +21,8 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
+  **Yuchao Chen** (GitHub: Evancyc): My favorite movie is The Truman Show
+
 
 
 
