@@ -21,7 +21,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
-
+**Brayan Guaman Camas** (GitHub: BrayanGuamanCamas): My favorite movie is Spider-Man 2!
 
 
 
