@@ -2,6 +2,7 @@
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
+**Kristopher Kolos** (GitHub: KMKolos): My favorite movie is 2 Fast 2 Furious
 - **Saral Tewari** (GitHub: SaralTewari44): My favorite movie is Interstellar
 **Rabten Jangchup** (GitHub: RJ-1124): My favorite movie is The Boy and the Heron
 - **Arber Kaziu** (GitHub: ObstShot): My favorite movie is Spiderman 1.
