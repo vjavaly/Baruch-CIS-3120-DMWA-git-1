@@ -22,6 +22,8 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
 -**Shomansur Shoumarov** (Github: ShomansurShoumarov): My favorite movie is The Conjuring
+-**Anaysa Navarrete** (GitHub: Coderwolf90): My favorite movie is The Lion King
+
 
 
 
