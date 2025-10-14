@@ -21,8 +21,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
-
-
+**Rabten Jangchup** (GitHub: RJ-1124): My favorite movie is The Boy and the Heron
 
 
 
