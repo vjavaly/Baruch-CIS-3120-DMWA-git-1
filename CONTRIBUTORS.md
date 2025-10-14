@@ -2,6 +2,7 @@
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
+- **Arber Kaziu** (GitHub: ObstShot): My favorite movie is Spiderman 1.
 **Brianna Antrobus** (GitHub: brianchal): My favorite movie is Bad Times at the El Royale
 **Jay Liverpool** (GitHub: JLiverpool): My favorite movie is Incredibles!
 **David Alamu** (GitHub: [Dalamu35]): My favorite movie is GodFather I & II
