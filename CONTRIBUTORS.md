@@ -2,6 +2,7 @@
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
+  **Yuchao Chen** (GitHub: Evancyc): My favorite movie is The Truman Show
 **Anaya Aga** (Github: anaya-aga): My favorite movie is Batman Returns.
 - **Kyseim Castillo** (GitHub: Kyseim): My favorite movie is Inception
 **Janet Lu** (GitHub: gudetama3003): My favorite movie is The Fantastic Four
