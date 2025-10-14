@@ -2,6 +2,7 @@
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
+- **Salika Khan** (GitHub: salikakhan): My favorite movie is Interstellar
 - **Vashisht Ramsaran** (GitHub: vashisht-ramsaran): My favorite movie is Rush Hour
   **Yuchao Chen** (GitHub: Evancyc): My favorite movie is The Truman Show
 **Anaya Aga** (Github: anaya-aga): My favorite movie is Batman Returns.
