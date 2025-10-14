@@ -2,6 +2,7 @@
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
+**Giovanni Tripicchio** (Github: giotrip): My favorite movie is Interstellar. 
 **Brayan Guaman Camas** (GitHub: BrayanGuamanCamas): My favorite movie is Spider-Man 2!
 - **Alice Brousilova** (GitHub: alicebrousilova): My favorite movie is Iron Man
 - **Salika Khan** (GitHub: salikakhan): My favorite movie is Interstellar
