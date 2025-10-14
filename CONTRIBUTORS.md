@@ -2,6 +2,7 @@
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
+**Jay Liverpool** (GitHub: JLiverpool): My favorite movie is Incredibles!
 **David Alamu** (GitHub: [Dalamu35]): My favorite movie is GodFather I & II
 Add David Alamu to CONTRIBUTORS.md
 **Giovanni Tripicchio** (Github: giotrip): My favorite movie is Interstellar. 
