@@ -2,6 +2,8 @@
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
+**David Alamu** (GitHub: [Dalamu35]): My favorite movie is GodFather I & II
+Add David Alamu to CONTRIBUTORS.md
 **Giovanni Tripicchio** (Github: giotrip): My favorite movie is Interstellar. 
 **Brayan Guaman Camas** (GitHub: BrayanGuamanCamas): My favorite movie is Spider-Man 2!
 - **Alice Brousilova** (GitHub: alicebrousilova): My favorite movie is Iron Man
