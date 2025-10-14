@@ -2,6 +2,7 @@
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
+**Rabten Jangchup** (GitHub: RJ-1124): My favorite movie is The Boy and the Heron
 - **Arber Kaziu** (GitHub: ObstShot): My favorite movie is Spiderman 1.
 **Brianna Antrobus** (GitHub: brianchal): My favorite movie is Bad Times at the El Royale
 **Jay Liverpool** (GitHub: JLiverpool): My favorite movie is Incredibles!
